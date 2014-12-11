@@ -158,7 +158,7 @@ a {
 }
 
 a:hover {
-    color: #57A3E8;
+    color: #D23641;
 }
 
 h1 a, h2 a, h3 a,
@@ -713,7 +713,7 @@ table.plain {
 }
 
 .post-footer .share a:hover {
-    color: #50585D;
+    color: #D23641;
 }
 
 .post-newsDate {
@@ -842,7 +842,7 @@ table.plain {
 }
 
 .site-footer a:hover {
-    color: #50585D;
+    color: #D23641;
 }
 
 .poweredby .icon-ghost {
