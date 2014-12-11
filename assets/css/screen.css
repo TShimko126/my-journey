@@ -709,7 +709,7 @@ table.plain {
     font-size: 1.8rem;
     display: inline-block;
     margin: 1.4rem 1.6rem 1.6rem 0;
-    color: #BBC7CC;
+    color: #E87D7D;
 }
 
 .post-footer .share a:hover {
@@ -830,7 +830,7 @@ table.plain {
     font-family: 'PT Sans Narrow', sans-serif;
     font-size: 1.5rem;
     line-height: 1.7em;
-    color: #BBC7CC;
+    color: #E87D7D;
     text-align: center;
     background: #3F3F3F;
     clear:both;
