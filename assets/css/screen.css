@@ -378,7 +378,7 @@ table.plain {
     height: 40% !important;
     margin-bottom: 1rem;
     color: #fff;
-    background: #7FC4DA no-repeat center center;
+    background: #D23641 no-repeat center center;
     background-size: cover;
     border-bottom: 5px solid white;
     -webkit-box-shadow: 0 2px 4px 0 rgba(0,0,0,.15);
@@ -726,7 +726,7 @@ table.plain {
     line-height: 1;
     width: 50px;
     padding: 0.5em;
-    background-color: #7FC4DA;
+    background-color: #D23641;
     -webkit-box-shadow: 1px 2px 7px -2px rgba(0, 0, 0, 0.3);
     box-shadow: 1px 2px 7px -2px rgba(0, 0, 0, 0.3);
     border: 2px solid white;
@@ -837,7 +837,7 @@ table.plain {
 }
 
 .site-footer a {
-    color: #BBC7CC;
+    color: #E87D7D;
     text-decoration: underline;
 }
 
