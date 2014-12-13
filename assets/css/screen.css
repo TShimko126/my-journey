@@ -654,7 +654,7 @@ table.plain {
 .post-content img {
     display: block;
     margin: 0 auto;
-    width: auto;
+    width: 75%;
     height: auto;
 }
 
