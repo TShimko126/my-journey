@@ -13,8 +13,10 @@
 
         //$("#blog-logo").prependTo("#site-head-content");
 
-        $('.related-posts').ghostRelated();
+        
 
     });
 
 }(jQuery));
+
+$('.related-posts').ghostRelated();
