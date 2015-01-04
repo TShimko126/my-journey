@@ -26,7 +26,7 @@
         <h1 class="post-title">{{{title}}}</h1>
 
         {{#if tags}}
-            <p class="tags">Tags: {{tags separator=" | "}}</p>
+            Tags: {{tags separator=" | "}}
         {{/if}}
 
         <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -35,12 +35,6 @@
 
         <section class="post-content">
             {{content}}
-        </section>
-
-        <section>
-            <h3>Related Posts:</h3>
-            <ul class="related-posts">
-            </ul>
         </section>
 
         <div id="disqus_thread"></div>
