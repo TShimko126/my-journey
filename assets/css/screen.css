@@ -137,6 +137,10 @@ h1 {
     text-indent: -3px;
 }
 
+h1.blog-title a {
+    text-decoration: none;
+}
+
 h2 {
     font-size: 4rem;
     line-height: 1.2em;
