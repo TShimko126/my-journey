@@ -79,6 +79,14 @@ Author: Dimitar Georgievski
     content: "\e004";
 }
 
+.share-buttons{
+    list-style: none;
+}
+
+.share-buttons li{
+    display: inline;
+}
+
 
 /* ==========================================================================
    2. General - Setting up some base styles
